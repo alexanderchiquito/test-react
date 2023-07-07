@@ -1,0 +1,26 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+}
+
+.table-showColors tr:nth-child(2n) {
+  background: #333;
+}
+
+.table-showColors tr:nth-child(2n + 1) {
+  background: #555;
+}
+
+header {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 48px;
+  justify-content: center;
+  align-items: center;
+}
+
+.pointer {
+  cursor: crosshair;
+}
