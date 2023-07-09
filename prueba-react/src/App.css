@@ -24,3 +24,8 @@ header {
 .pointer {
   cursor: crosshair;
 }
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+}
