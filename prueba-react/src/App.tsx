@@ -116,7 +116,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hola</h1>
+      <h1>Prueba React</h1>
       <header>
         <button onClick={toggleColors}>
           Colorear Fila
